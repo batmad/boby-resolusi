@@ -7,3 +7,6 @@ Ini list baris pada file dev txt:
 line baru
 1. Line pertama
 2. Line kedua
+
+line tambahan dev 1
+1. Line 1
