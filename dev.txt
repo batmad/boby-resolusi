@@ -5,3 +5,5 @@ Ini list baris pada file dev txt:
 3. Baris ketiga
 
 line baru
+1. Line pertama
+2. Line kedua
