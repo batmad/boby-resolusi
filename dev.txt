@@ -3,3 +3,5 @@ Ini list baris pada file dev txt:
 1. Baris pertama
 2. Baris kedua
 3. Baris ketiga
+
+line baru
